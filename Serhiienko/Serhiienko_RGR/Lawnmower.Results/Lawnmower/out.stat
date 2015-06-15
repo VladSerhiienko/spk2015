@@ -1,0 +1,315 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=56 Adjusted=0.01754386 Hits=8
+ 73 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 101 57
+Equivalent Tree: 
+Tree 0:
+ (v8a mow (ADF1 (ADF1 (v8a ADF0 left))))
+Tree 1:
+ mow
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ADF0 ARG0)
+     [4,5])) ADF0)
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=56 Adjusted=0.01754386 Hits=8
+ 73 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 101 123 -89 -73 -127
+Equivalent Tree: 
+Tree 0:
+ (v8a mow (ADF1 (ADF1 (v8a ADF0 left))))
+Tree 1:
+ mow
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ADF0 ARG0)
+     [4,5])) ADF0)
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=54 Adjusted=0.01818182 Hits=10
+ 73 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 97 -21 119 37 -54 63 -18 37 24 114
+Equivalent Tree: 
+Tree 0:
+ (v8a mow (ADF1 (ADF1 (v8a ADF0 left))))
+Tree 1:
+ mow
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a (v8a left
+     [3,1]) mow) (v8a mow mow))) [4,4])
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=48 Adjusted=0.02040816 Hits=16
+ 49 1 -117 -24 -17 -28 99 50 -95 -74 -128 -77 127 119 115 87 -13 -66 127 119 115 29 -109
+Equivalent Tree: 
+Tree 0:
+ (v8a (v8a mow (progn2 (ADF1 left) mow)) (frog
+     (v8a ADF0 (progn2 mow (ADF1 (ADF1 mow))))))
+Tree 1:
+ (progn2 (progn2 mow (progn2 mow left)) mow)
+Tree 2:
+ ADF0
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=48 Adjusted=0.02040816 Hits=16
+ 49 1 -117 -24 -17 -28 99 50 -95 -74 -128 -77 127 119 115 87 -13 -66 127 119 115 29 -109 127 119 115 87 -13 -66
+Equivalent Tree: 
+Tree 0:
+ (v8a (v8a mow (progn2 (ADF1 left) mow)) (frog
+     (v8a ADF0 (progn2 mow (ADF1 (ADF1 mow))))))
+Tree 1:
+ (progn2 (progn2 mow (progn2 mow left)) mow)
+Tree 2:
+ ADF0
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=41 Adjusted=0.02380952 Hits=23
+ 33 123 -89 -73 -73 -127 6 -116 109 -86 -128 -98 47 125 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 47 125 41 -104 -5 105 97 -21 119
+Equivalent Tree: 
+Tree 0:
+ (v8a mow (ADF1 (ADF1 (ADF1 (v8a ADF0 left)))))
+Tree 1:
+ mow
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ARG0 [3,1])
+     ARG0)) (v8a (v8a ADF0 ARG0) (progn2 (progn2
+     mow (progn2 (v8a ADF0 ARG0) [4,5])) (progn2
+     (v8a (v8a left [3,1]) mow) (v8a mow mow)))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=34 Adjusted=0.02857143 Hits=30
+ 73 123 -89 -73 -127 6 -116 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 97 -21 119 37
+Equivalent Tree: 
+Tree 0:
+ (v8a mow (ADF1 (ADF1 (v8a ADF0 left))))
+Tree 1:
+ (v8a [3,1] (progn2 (v8a [5,0] mow) mow))
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ADF0 ARG0)
+     (v8a ADF0 ARG0))) (progn2 (progn2 mow (progn2
+     (v8a (v8a left [3,1]) mow) ARG0)) (progn2
+     (progn2 mow (progn2 (v8a ADF0 ARG0) [4,5]))
+     (v8a (v8a ADF0 ARG0) (progn2 (progn2 mow
+         (progn2 (v8a (v8a left [3,1]) mow) (v8a mow
+             mow))) [4,4])))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=26 Adjusted=0.03703704 Hits=38
+ 49 1 -117 -24 -17 -28 99 50 -95 -74 -128 -77 127 119 115 87 -13 -66 127 58 -40 -53 79 -51 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 50 -95 -74 -128 -77 -37 -25 -84
+Equivalent Tree: 
+Tree 0:
+ (v8a (v8a mow (progn2 (ADF1 left) mow)) (frog
+     (v8a ADF0 (progn2 mow (ADF1 (ADF1 mow))))))
+Tree 1:
+ (progn2 (progn2 mow (progn2 (v8a left (progn2
+     mow mow)) (v8a [3,1] (progn2 (v8a [5,0] mow)
+     mow)))) mow)
+Tree 2:
+ (progn2 mow (progn2 (v8a left ADF0) ADF0))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=18 Adjusted=0.05263158 Hits=46
+ 23 -63 65 103 87 30 73 123 -89 -73 -127 6 99 50 -95 -74 -128 -77 127 119 115 8 49 27 -63 58 -40 -53 79 -51 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 97 -21 119 -17
+Equivalent Tree: 
+Tree 0:
+ (ADF1 (v8a (v8a (ADF1 (ADF1 ADF0)) (v8a mow
+     (ADF1 (ADF1 (v8a ADF0 mow))))) (frog (v8a
+     ADF0 (progn2 mow (ADF1 (ADF1 mow)))))))
+Tree 1:
+ (v8a mow (progn2 (progn2 (v8a left (progn2
+     mow mow)) (v8a [3,1] (progn2 (v8a [5,0] mow)
+     mow))) mow))
+Tree 2:
+ (progn2 mow (progn2 (v8a ADF0 ARG0) [4,5]))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=12 Adjusted=0.07692308 Hits=52
+ 23 -63 65 103 87 30 73 123 -89 -73 -127 6 99 50 -95 -74 73 123 -89 -73 -127 6 -116 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 97 -21 119 37
+Equivalent Tree: 
+Tree 0:
+ (ADF1 (v8a (v8a (ADF1 (ADF1 ADF0)) (v8a mow
+     (ADF1 (ADF1 (v8a ADF0 mow))))) (frog (v8a
+     ADF0 (v8a mow (ADF1 (ADF1 (v8a ADF0 left))))))))
+Tree 1:
+ (v8a [3,1] (progn2 (v8a [5,0] mow) mow))
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ADF0 ARG0)
+     (v8a ADF0 ARG0))) (progn2 (progn2 mow (progn2
+     (v8a (v8a left [3,1]) mow) ARG0)) (progn2
+     (progn2 mow (progn2 (v8a ADF0 ARG0) [4,5]))
+     (v8a (v8a ADF0 ARG0) (progn2 (progn2 mow
+         (progn2 (v8a (v8a left [3,1]) mow) (v8a mow
+             mow))) [4,4])))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=3 Adjusted=0.25 Hits=61
+ 49 1 -117 -24 -17 -28 99 50 -95 -74 -128 -77 127 119 115 87 -13 -66 127 58 -40 -53 79 -51 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 50 -95 -127 6 -116 109 -86 -128 -98 47 125 -53 74 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 97 -21 119 37
+Equivalent Tree: 
+Tree 0:
+ (v8a (v8a mow (progn2 (ADF1 left) mow)) (frog
+     (v8a ADF0 (progn2 mow (ADF1 (ADF1 mow))))))
+Tree 1:
+ (progn2 (progn2 mow (progn2 (v8a left (progn2
+     mow mow)) (v8a [3,1] (progn2 (v8a [5,0] mow)
+     mow)))) mow)
+Tree 2:
+ (progn2 mow (progn2 (v8a left ADF0) (v8a
+     (v8a ADF0 ARG0) (progn2 (progn2 mow (progn2
+     (v8a ADF0 ARG0) (v8a ADF0 ARG0))) (progn2
+     (progn2 mow (progn2 (v8a (v8a left [3,1])
+         mow) ARG0)) (progn2 (progn2 mow (progn2 (v8a
+     ADF0 ARG0) [4,5])) (v8a (v8a ADF0 ARG0) (progn2
+     (progn2 mow (progn2 (v8a (v8a left [3,1])
+         mow) (v8a mow mow))) [4,4]))))))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=1 Adjusted=0.5 Hits=63
+ 23 -63 65 103 87 30 73 123 -89 -73 -127 6 99 50 -95 -74 -128 -77 127 119 115 8 49 27 -63 58 -40 -53 79 -51 123 -89 -73 -127 6 -116 109 -86 -128 -128 -98 47 125 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 47 125 41 -104 -5 105 97 -21 119
+Equivalent Tree: 
+Tree 0:
+ (ADF1 (v8a (v8a (ADF1 (ADF1 ADF0)) (v8a mow
+     (ADF1 (ADF1 (v8a ADF0 mow))))) (frog (v8a
+     ADF0 (progn2 mow (ADF1 (ADF1 mow)))))))
+Tree 1:
+ (v8a mow (progn2 (progn2 (v8a left (progn2
+     mow mow)) (v8a [3,1] (progn2 (v8a [5,0] mow)
+     mow))) mow))
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ARG0 [3,1])
+     ARG0)) (v8a (v8a ADF0 ARG0) (progn2 (progn2
+     mow (progn2 (v8a ARG0 [3,1]) ARG0)) (v8a
+     (v8a ADF0 ARG0) (progn2 (progn2 mow (progn2
+     (v8a ADF0 ARG0) [4,5])) (progn2 (v8a (v8a
+     left [3,1]) mow) (v8a mow mow)))))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=1 Adjusted=0.5 Hits=63
+ 23 -63 65 103 87 30 73 123 -89 -73 -127 6 99 50 -95 -74 -128 -77 127 119 115 8 49 27 -63 58 -40 -53 79 -51 123 -89 -73 -127 6 -116 109 -86 -128 -128 -98 47 125 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 123 -89 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 47 125 41 -104 -5 105 97 -21 119 125 123 -89 -73 -127
+Equivalent Tree: 
+Tree 0:
+ (ADF1 (v8a (v8a (ADF1 (ADF1 ADF0)) (v8a mow
+     (ADF1 (ADF1 (v8a ADF0 mow))))) (frog (v8a
+     ADF0 (progn2 mow (ADF1 (ADF1 mow)))))))
+Tree 1:
+ (v8a mow (progn2 (progn2 (v8a left (progn2
+     mow mow)) (v8a [3,1] (progn2 (v8a [5,0] mow)
+     mow))) mow))
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ARG0 [3,1])
+     ARG0)) (v8a (v8a ADF0 ARG0) (progn2 (progn2
+     mow (progn2 (v8a ARG0 [3,1]) ARG0)) (v8a
+     (v8a ADF0 ARG0) (progn2 (progn2 mow (progn2
+     (v8a ADF0 ARG0) [4,5])) (progn2 (v8a (v8a
+     left [3,1]) mow) (v8a mow mow)))))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: T
+Fitness: Standardized=0 Adjusted=1 Hits=64
+ 23 -63 65 103 87 30 73 123 -89 -73 -127 6 99 50 -95 -74 -128 -77 127 119 115 87 -13 -66 127 119 49 27 -63 58 -40 -53 79 -51 123 -89 -73 -127 6 -116 105 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 -116 109 -86 -128 -98 47 125 -53 74 -33 47 125 41 -104 -5 105 97 -21 119
+Equivalent Tree: 
+Tree 0:
+ (ADF1 (v8a (v8a (ADF1 (ADF1 ADF0)) (v8a mow
+     (ADF1 (ADF1 (v8a ADF0 mow))))) (frog (v8a
+     ADF0 (progn2 mow (ADF1 (ADF1 mow)))))))
+Tree 1:
+ (progn2 (progn2 mow (progn2 mow mow)) (progn2
+     (progn2 (v8a left (progn2 mow mow)) (v8a
+         [3,1] (progn2 (v8a [5,0] mow) left))) mow))
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ADF0 ARG0)
+     [4,5])) (v8a (v8a ADF0 ARG0) (v8a (v8a ADF0
+     ARG0) (progn2 (progn2 mow (progn2 (v8a ADF0
+     ARG0) ARG0)) (v8a (v8a ADF0 ARG0) (progn2
+     (progn2 mow (progn2 (v8a ADF0 ARG0) [4,5]))
+     (v8a (v8a ADF0 ARG0) (progn2 (progn2 mow
+         (progn2 (v8a (v8a left [3,1]) mow) ARG0))
+         (v8a (v8a ADF0 ARG0) (progn2 (progn2 mow
+             (progn2 (v8a ADF0 ADF0) ARG0)) (progn2 (progn2
+             mow (progn2 (v8a ADF0 ARG0) [4,5])) (progn2
+             (v8a (v8a left [3,1]) mow) (v8a mow mow)))))))))))))
+
+Best Individual of Run:
+Evaluated: T
+Fitness: Standardized=0 Adjusted=1 Hits=64
+ 23 -63 65 103 87 30 73 123 -89 -73 -127 6 99 50 -95 -74 -128 -77 127 119 115 87 -13 -66 127 119 49 27 -63 58 -40 -53 79 -51 123 -89 -73 -127 6 -116 105 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 74 -33 -127 6 -116 109 -86 -128 -98 47 125 41 -104 -5 105 -73 -127 6 -116 109 -86 -128 -98 47 125 -53 -116 109 -86 -128 -98 47 125 -53 74 -33 47 125 41 -104 -5 105 97 -21 119
+Equivalent Tree: 
+Tree 0:
+ (ADF1 (v8a (v8a (ADF1 (ADF1 ADF0)) (v8a mow
+     (ADF1 (ADF1 (v8a ADF0 mow))))) (frog (v8a
+     ADF0 (progn2 mow (ADF1 (ADF1 mow)))))))
+Tree 1:
+ (progn2 (progn2 mow (progn2 mow mow)) (progn2
+     (progn2 (v8a left (progn2 mow mow)) (v8a
+         [3,1] (progn2 (v8a [5,0] mow) left))) mow))
+Tree 2:
+ (progn2 (progn2 mow (progn2 (v8a ADF0 ARG0)
+     [4,5])) (v8a (v8a ADF0 ARG0) (v8a (v8a ADF0
+     ARG0) (progn2 (progn2 mow (progn2 (v8a ADF0
+     ARG0) ARG0)) (v8a (v8a ADF0 ARG0) (progn2
+     (progn2 mow (progn2 (v8a ADF0 ARG0) [4,5]))
+     (v8a (v8a ADF0 ARG0) (progn2 (progn2 mow
+         (progn2 (v8a (v8a left [3,1]) mow) ARG0))
+         (v8a (v8a ADF0 ARG0) (progn2 (progn2 mow
+             (progn2 (v8a ADF0 ADF0) ARG0)) (progn2 (progn2
+             mow (progn2 (v8a ADF0 ARG0) [4,5])) (progn2
+             (v8a (v8a left [3,1]) mow) (v8a mow mow)))))))))))))
+
+
+Best Individual's Map
+=====================
+ Y ->
+X+----+----+----+----+----+----+----+----+
+|| 144| 129| 100| 273| 136| 121| 106| 487|
+v+----+----+----+----+----+----+----+----+
+ | 103| 102| 101|  64|  65|  66|  67| 104|
+ +----+----+----+----+----+----+----+----+
+ | 160|  51|   6|   7|   8|   9|  10|  11|
+ +----+----+----+----+----+----+----+----+
+ | 175|  50|   5|  20| 217|  56|  41|  12|
+ +----+----+----+----+----+----+----+----+
+ | 224|  49|   4|  19| 218|  57|  42|  13|
+ +----+----+----+----+----+----+----+----+
+ | 153|  48|   3|   2|   1|  16|  15|  14|
+ +----+----+----+----+----+----+----+----+
+ |  96|  97|  98|  75|  74|  73|  72|  95|
+ +----+----+----+----+----+----+----+----+
+ | 143| 128|  99|  90|  89|  88|  87| 454|
+ +----+----+----+----+----+----+----+----+
